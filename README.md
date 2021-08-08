@@ -6,3 +6,5 @@ A customized theme for Rime.
 效果图参见demo.png
 
 https://github.com/bitepen/rime_polar_theme/blob/main/demo.png
+
+食用方法：将polar.yaml中的代码复制到Rime用户文件夹中的weasel.custom.yaml中，重新部署，再进入输入法设定中选择Polar即可。
